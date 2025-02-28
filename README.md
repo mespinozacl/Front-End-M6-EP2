@@ -35,3 +35,7 @@ EquipoMedico.tsx (EquipoMedicoBD)
    Se verifica con EquipoMedico, funciona offline 
 
 4. Se obtienen informes satisfactorios de acuerdo a lo solicitado
+Se construye y despliega la PWA
+npm run build
+npm install -g serve
+serve -s dist
